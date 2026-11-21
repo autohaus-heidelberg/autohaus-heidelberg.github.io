@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:autumnsweater-bvs@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20261211T190000Z
 DTEND:20261211T230000Z
 SUMMARY:Autumn Sweater (Lux) und The BV's (Augsburg)
@@ -30,7 +30,7 @@ URL:https://altesauto.haus/event/autumnsweater-bvs
 END:VEVENT
 BEGIN:VEVENT
 UID:261121-SuxSuxSux-KingDick@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20261121T190000Z
 DTEND:20261121T230000Z
 SUMMARY:LIVE: SUX SUX SUX (AT) und King Dick (BE) Aftershow Party mit The
@@ -60,7 +60,7 @@ URL:https://altesauto.haus/event/261121-SuxSuxSux-KingDick
 END:VEVENT
 BEGIN:VEVENT
 UID:mm-261118@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20261118T190000Z
 DTEND:20261118T230000Z
 SUMMARY:Kino
@@ -75,7 +75,7 @@ URL:https://altesauto.haus/event/mm-261118
 END:VEVENT
 BEGIN:VEVENT
 UID:jazz-unerwuenscht@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20261116T180000Z
 DTEND:20261116T220000Z
 SUMMARY:Jazz (Postpunk\, Halle) + Unerwünscht (NDW\, Mannheim)
@@ -93,7 +93,7 @@ URL:https://altesauto.haus/event/jazz-unerwuenscht
 END:VEVENT
 BEGIN:VEVENT
 UID:20261114-Come-SkinnyMirror@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20261114T180000Z
 DTEND:20261114T220000Z
 SUMMARY:COME (Athens) & Skinny Mirror (Cologne)
@@ -126,7 +126,7 @@ URL:https://altesauto.haus/event/20261114-Come-SkinnyMirror
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-9@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20261109T180000Z
 DTEND:20261109T220000Z
 SUMMARY:Ulla Suspekt und Rocket 2
@@ -148,7 +148,7 @@ URL:https://altesauto.haus/event/2026-11-9
 END:VEVENT
 BEGIN:VEVENT
 UID:geisterbahn@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20261031T190000Z
 DTEND:20261031T230000Z
 SUMMARY:Grusel Carousel Geisterbahn mit La Sécurité (Art Punk) und Highwa
@@ -178,7 +178,7 @@ URL:https://altesauto.haus/event/geisterbahn
 END:VEVENT
 BEGIN:VEVENT
 UID:mm-211026@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20261021T180000Z
 DTEND:20261021T220000Z
 SUMMARY:Kino
@@ -201,7 +201,7 @@ URL:https://altesauto.haus/event/mm-211026
 END:VEVENT
 BEGIN:VEVENT
 UID:prize-snuckouts@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20261020T170000Z
 DTEND:20261020T210000Z
 SUMMARY:The Prize (AUS) & Snuckouts (Mainz)
@@ -216,7 +216,7 @@ URL:https://altesauto.haus/event/prize-snuckouts
 END:VEVENT
 BEGIN:VEVENT
 UID:jugend-unter-druck@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20261016T170100Z
 DTEND:20261211T225900Z
 SUMMARY:Fotoausstellung "Jugend Unter Druck"
@@ -248,7 +248,7 @@ URL:https://altesauto.haus/event/jugend-unter-druck
 END:VEVENT
 BEGIN:VEVENT
 UID:dieknoepfe-bikinizone@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20261016T170000Z
 DTEND:20261016T210000Z
 SUMMARY:Die Knöpfe und Bikinizone (Punk/NDW\, Berlin) + Vernissage "Jugen
@@ -270,7 +270,7 @@ URL:https://altesauto.haus/event/dieknoepfe-bikinizone
 END:VEVENT
 BEGIN:VEVENT
 UID:thegoods-jcusumano@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20261013T170000Z
 DTEND:20261013T210000Z
 SUMMARY:The Goods (Oakland\, CA) + Joel Cusumano (Bay Area\, CA)
@@ -294,7 +294,7 @@ URL:https://altesauto.haus/event/thegoods-jcusumano
 END:VEVENT
 BEGIN:VEVENT
 UID:20261006-metal-carousel@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20261009T180000Z
 DTEND:20261009T220000Z
 SUMMARY:Alt-Rock Underground
@@ -306,7 +306,7 @@ URL:https://altesauto.haus/event/20261006-metal-carousel
 END:VEVENT
 BEGIN:VEVENT
 UID:uselesseaters-lothario@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20261003T180000Z
 DTEND:20261003T220000Z
 SUMMARY:Useless Eaters (Punk)\, Lothario (Punk) und RAYO-X (Garage Punk)
@@ -336,7 +336,7 @@ URL:https://altesauto.haus/event/uselesseaters-lothario
 END:VEVENT
 BEGIN:VEVENT
 UID:dark-thoughts@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20260930T170000Z
 DTEND:20260930T210000Z
 SUMMARY:Dark Thoughts (Punk) und Geoduck Diodes (Egg Punk)
@@ -366,7 +366,7 @@ URL:https://altesauto.haus/event/dark-thoughts
 END:VEVENT
 BEGIN:VEVENT
 UID:designer-capacopter@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20260928T170000Z
 DTEND:20260928T210000Z
 SUMMARY:Designer (Rock'n'Roll) & Capacopter (Heavy Rock)
@@ -388,7 +388,7 @@ URL:https://altesauto.haus/event/designer-capacopter
 END:VEVENT
 BEGIN:VEVENT
 UID:mm-260905@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20260909T190000Z
 DTEND:20260909T230000Z
 SUMMARY:Open Air Kino: Midnight Madness
@@ -408,7 +408,7 @@ URL:https://altesauto.haus/event/mm-260905
 END:VEVENT
 BEGIN:VEVENT
 UID:event20260827@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20260827T170000Z
 DTEND:20260827T210000Z
 SUMMARY:Alvilda & A Silly Walk\, (The Runnings - cancelled!)
@@ -428,7 +428,7 @@ URL:https://altesauto.haus/event/event20260827
 END:VEVENT
 BEGIN:VEVENT
 UID:mm-260805@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20260805T193000Z
 DTEND:20260805T233000Z
 SUMMARY:Open Air Kino: Midnight Madness
@@ -448,7 +448,7 @@ URL:https://altesauto.haus/event/mm-260805
 END:VEVENT
 BEGIN:VEVENT
 UID:the-bats@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20260803T170000Z
 DTEND:20260803T210000Z
 SUMMARY:The Bats (Psych Pop\, NZ) & Woog Riots (Electro-Pop)
@@ -477,7 +477,7 @@ URL:https://altesauto.haus/event/the-bats
 END:VEVENT
 BEGIN:VEVENT
 UID:balaclava-mrstrong@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20260722T170000Z
 DTEND:20260722T210000Z
 SUMMARY:Balaclava (Trash Rock\, NYC) und Mr. Strong (Art Punk\, Galway/Le
@@ -497,7 +497,7 @@ URL:https://altesauto.haus/event/balaclava-mrstrong
 END:VEVENT
 BEGIN:VEVENT
 UID:Diapers-DBR@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20260720T170000Z
 DTEND:20260720T210000Z
 SUMMARY:DIAPERS (L\,HAL\,MRS)\, D:B:R (B)
@@ -518,7 +518,7 @@ URL:https://altesauto.haus/event/Diapers-DBR
 END:VEVENT
 BEGIN:VEVENT
 UID:mm-260715@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20260715T193000Z
 DTEND:20260715T233000Z
 SUMMARY:Outdoor Kino: Midnight Madness
@@ -535,7 +535,7 @@ URL:https://altesauto.haus/event/mm-260715
 END:VEVENT
 BEGIN:VEVENT
 UID:iwan-nostyle@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20260710T180000Z
 DTEND:20260710T220000Z
 SUMMARY:IWAN2 -ohne scheiss-
@@ -576,7 +576,7 @@ URL:https://altesauto.haus/event/iwan-nostyle
 END:VEVENT
 BEGIN:VEVENT
 UID:caro@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20260703T180000Z
 DTEND:20260703T220000Z
 SUMMARY:Ein Abend für Caro
@@ -593,7 +593,7 @@ URL:https://altesauto.haus/event/caro
 END:VEVENT
 BEGIN:VEVENT
 UID:mm-260625@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20260625T180000Z
 DTEND:20260625T220000Z
 SUMMARY:ABGESAGT Kino: Midnight Madness
@@ -616,7 +616,7 @@ URL:https://altesauto.haus/event/mm-260625
 END:VEVENT
 BEGIN:VEVENT
 UID:goodflyingbirds@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20260623T170000Z
 DTEND:20260623T210000Z
 SUMMARY:Good Flying Birds (Garage Pop\, Indianapolis) und K!tsch (Punk/ND
@@ -654,7 +654,7 @@ URL:https://altesauto.haus/event/goodflyingbirds
 END:VEVENT
 BEGIN:VEVENT
 UID:cherazade@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20260620T180000Z
 DTEND:20260620T220000Z
 SUMMARY:Cherazade\, Goonsquad 343\, N-REEF\, h3xe
@@ -682,7 +682,7 @@ URL:https://altesauto.haus/event/cherazade
 END:VEVENT
 BEGIN:VEVENT
 UID:screensaver@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20260611T170000Z
 DTEND:20260611T210000Z
 SUMMARY:Screensaver (Post-Punk\, Melbourne)\, Jellybones (Wave Pop\, Karl
@@ -696,7 +696,7 @@ URL:https://altesauto.haus/event/screensaver
 END:VEVENT
 BEGIN:VEVENT
 UID:blackboxmassacre20260522@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20260522T180000Z
 DTEND:20260522T220000Z
 SUMMARY:Fuzz Sagrado\, Zündung
@@ -717,7 +717,7 @@ URL:https://altesauto.haus/event/blackboxmassacre20260522
 END:VEVENT
 BEGIN:VEVENT
 UID:mm-260521@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20260521T180000Z
 DTEND:20260521T220000Z
 SUMMARY:Kino: Midnight Madness
@@ -740,7 +740,7 @@ URL:https://altesauto.haus/event/mm-260521
 END:VEVENT
 BEGIN:VEVENT
 UID:zoomies-howileft@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20260516T180000Z
 DTEND:20260516T220000Z
 SUMMARY:Zoomies (Americana\, Leipzig)\, How I Left (Indie\, Karlsruhe)
@@ -768,7 +768,7 @@ URL:https://altesauto.haus/event/zoomies-howileft
 END:VEVENT
 BEGIN:VEVENT
 UID:lemongrab-socke-invertida-rocket2@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20260509T180000Z
 DTEND:20260509T220000Z
 SUMMARY:Lemongrab + Socke + Invertida + Rocket 2
@@ -786,7 +786,7 @@ URL:https://altesauto.haus/event/lemongrab-socke-invertida-rocket2
 END:VEVENT
 BEGIN:VEVENT
 UID:fivebucks-poopootalks@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20260507T180000Z
 DTEND:20260507T220000Z
 SUMMARY:Five Bucks & Poo Poo Talks - Garage and Egg Punk from Italy
@@ -819,7 +819,7 @@ URL:https://altesauto.haus/event/fivebucks-poopootalks
 END:VEVENT
 BEGIN:VEVENT
 UID:beachtowel-release@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20260425T180000Z
 DTEND:20260425T220000Z
 SUMMARY:Beach Towel - Die unsichtbaren Städte - Marla Moya
@@ -867,7 +867,7 @@ URL:https://altesauto.haus/event/beachtowel-release
 END:VEVENT
 BEGIN:VEVENT
 UID:mm-260422@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20260423T180000Z
 DTEND:20260423T220000Z
 SUMMARY:Kino: Midnight Madness
@@ -886,7 +886,7 @@ URL:https://altesauto.haus/event/mm-260422
 END:VEVENT
 BEGIN:VEVENT
 UID:dirkandtheseconds-shocktroopers-fatale@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20260418T180000Z
 DTEND:20260418T220000Z
 SUMMARY:Dirk and the Seconds (Garage Punk\, Leipzig)\, Shocktroopers (Cru
@@ -903,7 +903,7 @@ URL:https://altesauto.haus/event/dirkandtheseconds-shocktroopers-fatale
 END:VEVENT
 BEGIN:VEVENT
 UID:260411-saxophones@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20260411T170000Z
 DTEND:20260411T210000Z
 SUMMARY:Enjoy Jazz - The Saxophones
@@ -913,7 +913,7 @@ URL:https://altesauto.haus/event/260411-saxophones
 END:VEVENT
 BEGIN:VEVENT
 UID:fruittones-electricjugs@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20260402T180000Z
 DTEND:20260402T220000Z
 SUMMARY:Fruit Tones (UK) & Electric Jugs (DE)
@@ -935,7 +935,7 @@ URL:https://altesauto.haus/event/fruittones-electricjugs
 END:VEVENT
 BEGIN:VEVENT
 UID:mm-260326@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20260326T190000Z
 DTEND:20260326T230000Z
 SUMMARY:Kino: Midnight Madness
@@ -952,7 +952,7 @@ URL:https://altesauto.haus/event/mm-260326
 END:VEVENT
 BEGIN:VEVENT
 UID:sexverbot-dustsucker@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20260320T190000Z
 DTEND:20260320T230000Z
 SUMMARY:Sexverbot + ÖPNV + Dustsuck!er
@@ -976,7 +976,7 @@ URL:https://altesauto.haus/event/sexverbot-dustsucker
 END:VEVENT
 BEGIN:VEVENT
 UID:peitschen-laxisme-fatale@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20260314T190000Z
 DTEND:20260314T230000Z
 SUMMARY:Sonne\, Licht und Punkrock mit Peitschen (Köln)\, Laxisme (Leipzi
@@ -1006,7 +1006,7 @@ URL:https://altesauto.haus/event/peitschen-laxisme-fatale
 END:VEVENT
 BEGIN:VEVENT
 UID:goldcup-knabenschule@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20260303T180000Z
 DTEND:20260303T220000Z
 SUMMARY:Gold Cup (Manchester) & Knabenschule (HD/Halle)
@@ -1026,7 +1026,7 @@ URL:https://altesauto.haus/event/goldcup-knabenschule
 END:VEVENT
 BEGIN:VEVENT
 UID:bandsupporter-contest26@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20260221T180000Z
 DTEND:20260221T220000Z
 SUMMARY:Bandsupporter Contest 2026 - Vorrunde
@@ -1053,7 +1053,7 @@ URL:https://altesauto.haus/event/bandsupporter-contest26
 END:VEVENT
 BEGIN:VEVENT
 UID:meltingpalms-glizzer@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20260214T190000Z
 DTEND:20260214T230000Z
 SUMMARY:Melting Palms (Hamburg) & Glizzer (Mannheim)
@@ -1069,7 +1069,7 @@ URL:https://altesauto.haus/event/meltingpalms-glizzer
 END:VEVENT
 BEGIN:VEVENT
 UID:fuller-soulscraper@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20260206T190000Z
 DTEND:20260206T230000Z
 SUMMARY:ABGESAGT!! Fuller (Fränkisch Tour de Force) & Soulscraper (Punk L
@@ -1090,7 +1090,7 @@ URL:https://altesauto.haus/event/fuller-soulscraper
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-01-24-AP@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20260124T140000Z
 DTEND:20260124T180000Z
 SUMMARY:Solar Punk: Body\, Society and Environment beyond Calamity
@@ -1108,7 +1108,7 @@ URL:https://altesauto.haus/event/2026-01-24-AP
 END:VEVENT
 BEGIN:VEVENT
 UID:nightcourt-onetrickpony@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20260121T180000Z
 DTEND:20260121T220000Z
 SUMMARY:Night Court (Punk\, Vancouver) und One Trick Pony (Frankfurt)
@@ -1131,7 +1131,7 @@ URL:https://altesauto.haus/event/nightcourt-onetrickpony
 END:VEVENT
 BEGIN:VEVENT
 UID:mm-260108@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20260108T190000Z
 DTEND:20260108T230000Z
 SUMMARY:Kino: Midnight Madness
@@ -1150,7 +1150,7 @@ URL:https://altesauto.haus/event/mm-260108
 END:VEVENT
 BEGIN:VEVENT
 UID:wunderbar@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20251219T180000Z
 DTEND:20251219T220000Z
 SUMMARY:komparse | jako bär | lukas herbertson | beach towel | die unsich
@@ -1165,7 +1165,7 @@ URL:https://altesauto.haus/event/wunderbar
 END:VEVENT
 BEGIN:VEVENT
 UID:mm181225@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20251218T200000Z
 DTEND:20251219T000000Z
 SUMMARY:Kino: Midnight Madness
@@ -1185,7 +1185,7 @@ URL:https://altesauto.haus/event/mm181225
 END:VEVENT
 BEGIN:VEVENT
 UID:pathwalker-lifespark-oneverypage@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20251205T190000Z
 DTEND:20251205T230000Z
 SUMMARY:Last Breath of the Year - Pathwalker / Lifespark. / On Every Page
@@ -1224,7 +1224,7 @@ URL:https://altesauto.haus/event/pathwalker-lifespark-oneverypage
 END:VEVENT
 BEGIN:VEVENT
 UID:turn-down-for-what-291125@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20251129T200000Z
 DTEND:20251130T000000Z
 SUMMARY:MSV präsentiert: Turn Down for WAT!
@@ -1248,7 +1248,7 @@ URL:https://altesauto.haus/event/turn-down-for-what-291125
 END:VEVENT
 BEGIN:VEVENT
 UID:bluezero-watchingbuildingsgrow@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20251127T180000Z
 DTEND:20251127T220000Z
 SUMMARY:Blue Zero (Bay Area Post-Punk) und Watching Buildings Grow (Dream
@@ -1271,7 +1271,7 @@ URL:https://altesauto.haus/event/bluezero-watchingbuildingsgrow
 END:VEVENT
 BEGIN:VEVENT
 UID:kino_201125@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20251120T200000Z
 DTEND:20251121T000000Z
 SUMMARY:Kino: Midnight Madness
@@ -1296,7 +1296,7 @@ URL:https://altesauto.haus/event/kino_201125
 END:VEVENT
 BEGIN:VEVENT
 UID:nevver-atticstories-apartfromus@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20251114T180000Z
 DTEND:20251114T220000Z
 SUMMARY:Nevver (Heidelberg) + Attic Stories (Karlsruhe) + Apart From Us (
@@ -1317,7 +1317,7 @@ URL:https://altesauto.haus/event/nevver-atticstories-apartfromus
 END:VEVENT
 BEGIN:VEVENT
 UID:dana-mondaze@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20251112T180000Z
 DTEND:20251112T220000Z
 SUMMARY:Dana (Psych Punk\, Ohio) & Mondaze (Heavy Shoegaze\, Italien)
@@ -1341,7 +1341,7 @@ URL:https://altesauto.haus/event/dana-mondaze
 END:VEVENT
 BEGIN:VEVENT
 UID:hakan-deaflingo-halloween@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20251031T190000Z
 DTEND:20251031T230000Z
 SUMMARY:Grusel Carousel mit Hakan (Punk\, Bergamo) und Deaf Lingo (Garage
@@ -1369,7 +1369,7 @@ URL:https://altesauto.haus/event/hakan-deaflingo-halloween
 END:VEVENT
 BEGIN:VEVENT
 UID:jeremyjay-glizzer@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20251017T180000Z
 DTEND:20251017T220000Z
 SUMMARY:ABGESAGT Jeremy Jay (Indie Pop aus London) & Glizzer (Synth Pop a
@@ -1391,7 +1391,7 @@ URL:https://altesauto.haus/event/jeremyjay-glizzer
 END:VEVENT
 BEGIN:VEVENT
 UID:dub-carousel@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20251011T190000Z
 DTEND:20251011T230000Z
 SUMMARY:Dub Carousel #1
@@ -1405,7 +1405,7 @@ URL:https://altesauto.haus/event/dub-carousel
 END:VEVENT
 BEGIN:VEVENT
 UID:fungas-zyph@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20251007T170000Z
 DTEND:20251007T210000Z
 SUMMARY:Fungas (Psych-Garage aus Australien) und Zyph (Punk aus Mannheim)
@@ -1423,7 +1423,7 @@ URL:https://altesauto.haus/event/fungas-zyph
 END:VEVENT
 BEGIN:VEVENT
 UID:narkose-ambulanz-luckyloose@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20250927T180000Z
 DTEND:20250927T220000Z
 SUMMARY:Narkose (Deutschpunk\, Ruhrgebiet)\, Ambulanz (Synth Punk\, Leipz
@@ -1443,7 +1443,7 @@ URL:https://altesauto.haus/event/narkose-ambulanz-luckyloose
 END:VEVENT
 BEGIN:VEVENT
 UID:mm-2025-09-15@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20250925T190000Z
 DTEND:20250925T230000Z
 SUMMARY:Kino: Midnight Madness
@@ -1464,7 +1464,7 @@ URL:https://altesauto.haus/event/mm-2025-09-15
 END:VEVENT
 BEGIN:VEVENT
 UID:blitzer-lovebomb@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20250921T170000Z
 DTEND:20250921T210000Z
 SUMMARY:Blitzer (Leipsick) & Lovebomb (Hildesheim)
@@ -1485,7 +1485,7 @@ URL:https://altesauto.haus/event/blitzer-lovebomb
 END:VEVENT
 BEGIN:VEVENT
 UID:loneaires-borninmay@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20250920T173000Z
 DTEND:20250920T213000Z
 SUMMARY:Lone Aires EP Release Show (Dreampop/ Shoegaze) + Borninmay (Post
@@ -1510,7 +1510,7 @@ URL:https://altesauto.haus/event/loneaires-borninmay
 END:VEVENT
 BEGIN:VEVENT
 UID:savak-forestray-fatale@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20250912T180000Z
 DTEND:20250912T220000Z
 SUMMARY:SAVAK (New York)\, Forest Ray (Seattle) und Fatale (Heidelberg)
@@ -1541,7 +1541,7 @@ URL:https://altesauto.haus/event/savak-forestray-fatale
 END:VEVENT
 BEGIN:VEVENT
 UID:rowdy-gba@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20250827T170000Z
 DTEND:20250827T210000Z
 SUMMARY:Rowdy (US) & Game Boy Advance (LPZG)
@@ -1560,7 +1560,7 @@ URL:https://altesauto.haus/event/rowdy-gba
 END:VEVENT
 BEGIN:VEVENT
 UID:kino-20250821@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20250821T180000Z
 DTEND:20250821T220000Z
 SUMMARY:Kino: Midnight Madness
@@ -1581,7 +1581,7 @@ URL:https://altesauto.haus/event/kino-20250821
 END:VEVENT
 BEGIN:VEVENT
 UID:kueken-solder@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20250725T180000Z
 DTEND:20250725T220000Z
 SUMMARY:Küken (Hamburg) & Solder (AUS) & The Junktones (Eppelheim)
@@ -1592,7 +1592,7 @@ URL:https://altesauto.haus/event/kueken-solder
 END:VEVENT
 BEGIN:VEVENT
 UID:kino-20250710@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20250710T193000Z
 DTEND:20250710T233000Z
 SUMMARY:Kino: Midnight Madness
@@ -1620,7 +1620,7 @@ URL:https://altesauto.haus/event/kino-20250710
 END:VEVENT
 BEGIN:VEVENT
 UID:metdog-distant-relatives@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20250709T170000Z
 DTEND:20250709T210000Z
 SUMMARY:Metdog (AUS) & Distant Relatives (LPZG)
@@ -1631,7 +1631,7 @@ URL:https://altesauto.haus/event/metdog-distant-relatives
 END:VEVENT
 BEGIN:VEVENT
 UID:coeur-a-lindex-exceeded-capacity@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20250704T180000Z
 DTEND:20250704T220000Z
 SUMMARY:Cœur à l'Index (Brüssel) und Exceeded Capacity (Autohaus)
@@ -1657,7 +1657,7 @@ URL:https://altesauto.haus/event/coeur-a-lindex-exceeded-capacity
 END:VEVENT
 BEGIN:VEVENT
 UID:alien-nosejob@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20250702T170000Z
 DTEND:20250702T210000Z
 SUMMARY:Alien Nosejob (Australien) und City Boys (Autohaus)
@@ -1683,7 +1683,7 @@ URL:https://altesauto.haus/event/alien-nosejob
 END:VEVENT
 BEGIN:VEVENT
 UID:escape-schule@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20250628T180000Z
 DTEND:20250628T220000Z
 SUMMARY:Escape-Ism (LA) und 375 CEG (FFM)
@@ -1704,7 +1704,7 @@ URL:https://altesauto.haus/event/escape-schule
 END:VEVENT
 BEGIN:VEVENT
 UID:digger-wannabe@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20250625T170000Z
 DTEND:20250625T210000Z
 SUMMARY:Digger & The Pussycats (Melbourne\, Australien) und New York Wann
@@ -1723,7 +1723,7 @@ URL:https://altesauto.haus/event/digger-wannabe
 END:VEVENT
 BEGIN:VEVENT
 UID:skullcult-socke@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20250621T180000Z
 DTEND:20250621T220000Z
 SUMMARY:Skull Cult (Synth/Garage Punk aus Indiana) + Socke (Autohaus)
@@ -1747,7 +1747,7 @@ URL:https://altesauto.haus/event/skullcult-socke
 END:VEVENT
 BEGIN:VEVENT
 UID:dccross@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20250612T170000Z
 DTEND:20250612T210000Z
 SUMMARY:Rückwärts in den Sonnenuntergang – D.C Cross (AUS) & The Long Str
@@ -1768,7 +1768,7 @@ URL:https://altesauto.haus/event/dccross
 END:VEVENT
 BEGIN:VEVENT
 UID:mitraille-neat-mentals-muddux@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20250530T180000Z
 DTEND:20250530T220000Z
 SUMMARY:Mitraille (Garage Punk\, Antwerpen)\, Neat Mentals (Punk Rock\, S
@@ -1790,7 +1790,7 @@ URL:https://altesauto.haus/event/mitraille-neat-mentals-muddux
 END:VEVENT
 BEGIN:VEVENT
 UID:condor-chemical-threat@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20250506T170000Z
 DTEND:20250506T210000Z
 SUMMARY:Condor (Oi! aus Frankreich) und Chemical Threat (Rhineline Hardco
@@ -1811,7 +1811,7 @@ URL:https://altesauto.haus/event/condor-chemical-threat
 END:VEVENT
 BEGIN:VEVENT
 UID:wax-head-zuendung@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20250426T180000Z
 DTEND:20250426T220000Z
 SUMMARY:Wax Head (Manchester\, UK) und Zündung (Heidelberg)
@@ -1835,7 +1835,7 @@ URL:https://altesauto.haus/event/wax-head-zuendung
 END:VEVENT
 BEGIN:VEVENT
 UID:snapped-ankles-fatale@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20250415T170000Z
 DTEND:20250415T210000Z
 SUMMARY:Snapped Ankles (London)\, Fatale (Heidelberg)
@@ -1849,7 +1849,7 @@ URL:https://altesauto.haus/event/snapped-ankles-fatale
 END:VEVENT
 BEGIN:VEVENT
 UID:milk-tv-lemongrab-warm-swords@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20250404T180000Z
 DTEND:20250404T220000Z
 SUMMARY:Milk TV (Brüssel)\, Lemongrab (Berlin) und Warm Swords (Leipzig)
@@ -1874,7 +1874,7 @@ URL:https://altesauto.haus/event/milk-tv-lemongrab-warm-swords
 END:VEVENT
 BEGIN:VEVENT
 UID:flathead-almostlovers@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20250309T140000Z
 DTEND:20250309T180000Z
 SUMMARY:Flathead (Marseille) & Almost Lovers (Brüssel/Lille) - gepflegtes
@@ -1912,7 +1912,7 @@ URL:https://altesauto.haus/event/flathead-almostlovers
 END:VEVENT
 BEGIN:VEVENT
 UID:alvilda_loosey@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20250228T190000Z
 DTEND:20250228T230000Z
 SUMMARY:Alvilda (Paris) mit Loosey (New York) und Aftershow Party mit Pun
@@ -1941,7 +1941,7 @@ URL:https://altesauto.haus/event/alvilda_loosey
 END:VEVENT
 BEGIN:VEVENT
 UID:sgatv_zz@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20250221T190000Z
 DTEND:20250221T230000Z
 SUMMARY:S.G.A.T.V. (Schweiz)\, Zero Zeroes (Karlsruhe) und Dispo (Leipzig
@@ -1959,7 +1959,7 @@ URL:https://altesauto.haus/event/sgatv_zz
 END:VEVENT
 BEGIN:VEVENT
 UID:sleeveens@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20250213T190000Z
 DTEND:20250213T230000Z
 SUMMARY:The Sleeveens (Nashville) und A Silly Walk (Heidelberg)
@@ -1978,7 +1978,7 @@ URL:https://altesauto.haus/event/sleeveens
 END:VEVENT
 BEGIN:VEVENT
 UID:negative_gears@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20250207T190000Z
 DTEND:20250207T230000Z
 SUMMARY:Negative Gears (Sydney)\, Galeere (Heidelberg) und Monochrome Lig
@@ -1998,7 +1998,7 @@ URL:https://altesauto.haus/event/negative_gears
 END:VEVENT
 BEGIN:VEVENT
 UID:yggdrasil@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20241206T170000Z
 DTEND:20241206T210000Z
 SUMMARY:Yggdrasil
@@ -2035,7 +2035,7 @@ URL:https://altesauto.haus/event/yggdrasil
 END:VEVENT
 BEGIN:VEVENT
 UID:data-unknown_poo-poo-talks@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20241130T190000Z
 DTEND:20241130T230000Z
 SUMMARY:Data Unknown (Indianapolis) und Poo Poo Talks (Rom)
@@ -2051,7 +2051,7 @@ URL:https://altesauto.haus/event/data-unknown_poo-poo-talks
 END:VEVENT
 BEGIN:VEVENT
 UID:tyvek_exceeded-capacity@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20241115T190000Z
 DTEND:20241115T230000Z
 SUMMARY:Tyvek (Detroit) und Exceeded Capacity (Heidelberg)
@@ -2074,7 +2074,7 @@ URL:https://altesauto.haus/event/tyvek_exceeded-capacity
 END:VEVENT
 BEGIN:VEVENT
 UID:crocodiles_bird-control@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20241113T180000Z
 DTEND:20241113T220000Z
 SUMMARY:Crocodiles (San Diego) und Bird Control (Berlin)
@@ -2097,7 +2097,7 @@ URL:https://altesauto.haus/event/crocodiles_bird-control
 END:VEVENT
 BEGIN:VEVENT
 UID:sluts-wkz-socke@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20241005T180000Z
 DTEND:20241005T220000Z
 SUMMARY:Sluts\, WKZ und Socke
@@ -2124,7 +2124,7 @@ URL:https://altesauto.haus/event/sluts-wkz-socke
 END:VEVENT
 BEGIN:VEVENT
 UID:kino-1309@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20240913T190000Z
 DTEND:20240913T230000Z
 SUMMARY:Open air kino: Repo Man
@@ -2136,7 +2136,7 @@ URL:https://altesauto.haus/event/kino-1309
 END:VEVENT
 BEGIN:VEVENT
 UID:cool-sorcery@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20240911T170000Z
 DTEND:20240911T210000Z
 SUMMARY:Cool Sorcery (Brasilien) und Zyph (Mannheim)
@@ -2155,7 +2155,7 @@ URL:https://altesauto.haus/event/cool-sorcery
 END:VEVENT
 BEGIN:VEVENT
 UID:dgf_wild-mustang@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20240727T180000Z
 DTEND:20240727T220000Z
 SUMMARY:Die Groben Fetten / Wild Mustang
@@ -2175,7 +2175,7 @@ URL:https://altesauto.haus/event/dgf_wild-mustang
 END:VEVENT
 BEGIN:VEVENT
 UID:wurst-durst@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20240714T120000Z
 DTEND:20240714T160000Z
 SUMMARY:Wurst & Durst
@@ -2188,7 +2188,7 @@ URL:https://altesauto.haus/event/wurst-durst
 END:VEVENT
 BEGIN:VEVENT
 UID:loons-mustang-fang@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20240711T180000Z
 DTEND:20240711T220000Z
 SUMMARY:The Loons (Psychedelic Garage Beat aus San Diego\, Kalifornien) m
@@ -2210,7 +2210,7 @@ URL:https://altesauto.haus/event/loons-mustang-fang
 END:VEVENT
 BEGIN:VEVENT
 UID:sommer-2024@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20240622T140000Z
 DTEND:20240622T180000Z
 SUMMARY:Carousel Sommerfest
@@ -2239,7 +2239,7 @@ URL:https://altesauto.haus/event/sommer-2024
 END:VEVENT
 BEGIN:VEVENT
 UID:hdf-31-05-2024@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20240531T170000Z
 DTEND:20240531T210000Z
 SUMMARY:Hodi Flow Hodilicious Release Party
@@ -2254,7 +2254,7 @@ URL:https://altesauto.haus/event/hdf-31-05-2024
 END:VEVENT
 BEGIN:VEVENT
 UID:forest-ray-28-05-2024@carousel-im-alten-autohaus.de
-DTSTAMP:20261120T161458Z
+DTSTAMP:20261121T104502Z
 DTSTART:20240528T180000Z
 DTEND:20240528T220000Z
 SUMMARY:Forest Ray ❤️ The Roaring 420s
