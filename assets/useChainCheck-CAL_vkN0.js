@@ -1,0 +1,1 @@
+import{Rt as e}from"./index-DrXFkdhc.js";import"./services-DsGuQq7I.js";import{c as t}from"./accounting-CdMxyfDg.js";var n=e(null),r=e(!1),i=e(null);function a(){async function e(){r.value=!0,i.value=null;try{n.value=await t.chainCheck()}catch{i.value=`Prüfung konnte nicht geladen werden.`}finally{r.value=!1}}return{report:n,loading:r,error:i,load:e}}export{a as t};
